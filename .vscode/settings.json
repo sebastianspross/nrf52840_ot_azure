@@ -2,13 +2,6 @@
     "nrf-connect.topdir": "${nrf-connect.sdk:2.2.0}",
     "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.2.0}",
     "nrf-connect.applications": [
-        "${workspaceFolder}",
-        "c:\\repos\\zephr_mqtt_azure"
-    ],
-    "files.associations": {
-        "lte_lc.h": "c",
-        "cjson_os.h": "c",
-        "azure_iot_hub.h": "c",
-        "ip6.h": "c"
-    }
+        "${workspaceFolder}"
+    ]
 }
